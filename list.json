@@ -1,12 +1,12 @@
 [
-  "AF": {
+  {
     "code": "AF",
     "unicode": "U+1F1E6 U+1F1EB",
     "dialcode": "+93",
     "name": "Afghanistan",
     "emoji": "🇦🇫"
   },
-  "BR": {
+  {
     "code": "BR",
     "unicode": "U+1F1E7 U+1F1F7",
     "dialcode": "+55",
